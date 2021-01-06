@@ -1,0 +1,147 @@
+body{
+
+	text-align: justify;
+	background-image: : 100%;
+}
+
+header {
+
+	font-family: fantasy;
+	font-size: 32px;
+	color: red;
+}
+
+
+p {
+
+	font-family: arial;
+	font-size: 15px;
+}
+
+h2 {
+ 
+	font-size: 30px;
+	text-align: ;
+}
+
+footer {
+
+	text-align: justify;
+	color: red;
+
+}
+
+.logo{
+
+	margin: 50px;
+}
+
+.fotgleria{
+
+	margin: 50px;
+}
+
+.foto{
+
+	float: left;
+	margin: 5px;
+}
+
+.texto{
+
+	float: left;
+	margin: 6px;
+	width: 820px;
+	height: 150px;
+	font-family: arial;
+	font-size: 17px;
+	text-align: justify;
+}
+
+.fotoitem{
+
+	width: 180px;
+	height: 180px;
+}
+
+.fotgleria1{
+
+	margin: 2px;
+}
+
+.foto1{
+
+	float: left;
+	margin: 5px;
+}
+
+.fotoitem1{
+
+	width: 245px;
+	height: 170px;
+}
+
+.fotgleria2{
+
+	margin: 50px;
+
+}
+
+.foto2{
+
+	float: left;
+	margin: 5px;
+
+}
+
+.fotoitem2{
+
+	width: 155px;
+	height: 151px;
+}
+
+.texto2{
+
+	float: left;
+	margin: 5px;
+	width: 850px;
+	height: 154px;
+	font-family: arial;
+	font-size: 20px;
+	text-align: justify;
+
+}
+
+.configc {
+
+	width: 750px;
+	height: 750px;
+}
+
+
+.imgservc {
+
+	width: 15%;
+
+}
+
+.imgclient {
+
+	width: 15%;
+}
+
+.imgpar {
+
+	width: 15%;
+
+}
+
+.imgequ {
+
+	width: 15%;
+}
+
+.imgcon {
+
+	width: 150px;	
+}

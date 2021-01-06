@@ -1,0 +1,16 @@
+body{
+
+	background-image: 100%;
+}
+
+
+fieldset{
+
+	width: 90%;
+}
+
+legend{
+
+	text-align: justify;
+	font-size: 25px;
+}
